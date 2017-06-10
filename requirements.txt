@@ -1,1 +1,1 @@
-pydgraph==0.4.0
+git+https://github.com/InfinityMod/pydgraph.git@master#egg=pydgraph==0.4.0
